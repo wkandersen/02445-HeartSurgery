@@ -23,28 +23,19 @@ def compare_prediction_sets(pred_set, holdout_labels, names=None):
     if len(names) != len(pred_set):
         raise ValueError("The length of names must match the length of pred_set")
     
-    # Create an empty DataFrame to store the results
-    results = pd.DataFrame(columns=['Prediction_Set_A', 'Prediction_Set_B', 'n00', 'n01', 'n10', 'n11', 'P_Value'])
+    # Create a list of tuples containing results
+    results_tuples = [
+        (
+            names[i],
+            names[j],
+            *compute_mcnemar_contingency(holdout_labels, pred_set[i], pred_set[j]),
+            mcnemar([[n00, n01], [n10, n11]], exact=False, correction=True).pvalue
+        )
+        for i, j in combinations(range(len(pred_set)), 2)
+    ]
     
-    for (i, pred_A), (j, pred_B) in combinations(enumerate(pred_set), 2):
-        print(f"Comparing prediction sets {names[i]} and {names[j]}")
-        
-        n00, n01, n10, n11 = compute_mcnemar_contingency(holdout_labels, pred_A, pred_B)
-        
-        # Create confusion matrix
-        confusion_matrix = [[n00, n01], [n10, n11]]
-        result = mcnemar(confusion_matrix, exact=False, correction=True)
-        
-        # Append results to the DataFrame
-        results = results.append({
-            'Prediction_Set_A': names[i],
-            'Prediction_Set_B': names[j],
-            'n00': n00,
-            'n01': n01,
-            'n10': n10,
-            'n11': n11,
-            'P_Value': result.pvalue
-        }, ignore_index=True)
+    # Convert list of tuples to DataFrame
+    results = pd.DataFrame(results_tuples, columns=['Prediction_Set_A', 'Prediction_Set_B', 'n00', 'n01', 'n10', 'n11', 'P_Value'])
     
     return results
 
