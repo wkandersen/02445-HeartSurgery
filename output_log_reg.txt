@@ -1,0 +1,48 @@
+Phase 0
+Best Weight Decay: 0.1
+Final Model F1 Score on Holdout Set: 0.3611
+Holdout Set Accuracy: 90.80%
+Holdout Set Precision: 2.38%
+Holdout Set Recall: 46.15%
+
+
+Phase 1
+Best Weight Decay: 0.1
+Final Model F1 Score on Holdout Set: 0.3250
+Holdout Set Accuracy: 89.20%
+Holdout Set Precision: 2.37%
+Holdout Set Recall: 46.15%
+
+
+Phase 2
+Best Weight Decay: 0.1
+Final Model F1 Score on Holdout Set: 0.3662
+Holdout Set Accuracy: 91.00%
+Holdout Set Precision: 2.75%
+Holdout Set Recall: 53.85%
+
+
+Phase 3
+Best Weight Decay: 0.1
+Final Model F1 Score on Holdout Set: 0.2453
+Holdout Set Accuracy: 84.00%
+Holdout Set Precision: 3.41%
+Holdout Set Recall: 69.23%
+
+
+Phase 4
+Best Weight Decay: 0.01
+Final Model F1 Score on Holdout Set: 0.2549
+Holdout Set Accuracy: 84.80%
+Holdout Set Precision: 2.24%
+Holdout Set Recall: 46.15%
+
+
+Phase 5
+Best Weight Decay: 0.001
+Final Model F1 Score on Holdout Set: 0.2281
+Holdout Set Accuracy: 82.40%
+Holdout Set Precision: 3.39%
+Holdout Set Recall: 61.54%
+
+
