@@ -1,0 +1,49 @@
+959b228 - Kirk, 83 seconds ago : oprydning af filer og sortering
+3957e1c - Nicolai Munksgaard Schmidt, 2 hours ago : LR results
+286a81a - Nicolai Munksgaard Schmidt, 3 hours ago : Logistic regression code
+4769f9d - Nicolai Munksgaard Schmidt, 9 hours ago : results logitsic
+ca1bf02 - Nicolai Munksgaard Schmidt, 9 hours ago : resultater
+ecc9ef2 - Nicolai Munksgaard Schmidt, 9 hours ago : xgboost notebook
+bae9603 - Nicolai Munksgaard Schmidt, 11 hours ago : feature ranking
+bee0c74 - Nicolai Munksgaard Schmidt, 12 hours ago : nye outputs
+2db3d03 - Nicolai Munksgaard Schmidt, 25 hours ago : data
+c2df046 - sofieullum, 2 days ago : Update XGBoost tests.ipynb
+80f6439 - Nicolai Munksgaard Schmidt, 2 days ago : updated XGBoost
+94c9da6 - Kirk, 2 days ago : ann med learning rate og weight decay loop
+8ff3718 - Kirk, 2 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
+c641e3e - Kirk, 2 days ago : ann med learning rate og weight_decay
+610d8e7 - sofieullum, 3 days ago : Update XGBoost tests.ipynb
+63fc4da - kris907j, 3 days ago : Updated code so it now includes tuplets instead of append
+16836a9 - kris907j, 3 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
+211e841 - kris907j, 3 days ago : Tilføjelse af Mcnemars test og at flere modeller er i samme ROC kurve
+2da85af - Kirk, 3 days ago : logistic regression med loop over mere data
+5fdc296 - Nicolai Munksgaard Schmidt, 4 days ago : XGBoost
+4ba6c6e - Kirk, 4 days ago : ny ANN med l2 reguarlization
+1af94c3 - Kirk, 4 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
+16bb93b - Kirk, 4 days ago : ny logistic regression
+1c2d6b1 - Nicolai Munksgaard Schmidt, 4 days ago : Updated operation file
+fc2f983 - Nicolai Munksgaard Schmidt, 6 days ago : opeatoin
+773acc8 - Nicolai Munksgaard Schmidt, 6 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
+36ca920 - Nicolai Munksgaard Schmidt, 6 days ago : operations processing
+32a912f - Kirk, 6 days ago : tilføjelse af roc og beregning af recall
+e396ef0 - Kirk, 6 days ago : Fjern mnist dataset
+90eb714 - Kirk, 6 days ago : 3 modeller implementeret med l2 reguluarization
+1c9d481 - Kirk, 7 days ago : updated ann med holdout og 2 level 10 fold cross validation
+fcb583c - Kirk, 7 days ago : logistic regression og ann 1. version
+86b20f5 - Nicolai Munksgaard Schmidt, 8 days ago : pseudo data
+000aa22 - Nicolai Munksgaard Schmidt, 8 days ago : præoperativ kode klar
+3e06bc9 - Kirk, 8 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
+4449efe - Kirk, 8 days ago : præoperativ pseudo anonymisere data
+fb129e7 - sofieullum, 12 days ago : Create Logistic regression v1.0.py
+d2c07d9 - Nicolai Munksgaard Schmidt, 13 days ago : Opdatering af dead30, dead90 som skal bruges til vores y-vektor
+4f56c1b - Nicolai Munksgaard Schmidt, 13 days ago : Data processing og X_matricer uploadet som bruges til preprocessing af data
+0e774b9 - kris907j, 2 months ago : Changed the names of the files + updated the class called Phases to make it work
+999b6b7 - kris907j, 2 months ago : Created more phases in our function
+f18e221 - kris907j, 3 months ago : Merge branches 'main' and 'main' of https://github.com/mackula/02445-HeartSurgery
+da49b94 - kris907j, 3 months ago : Created function for getting timestamp for induction
+3e0199f - Kirk, 3 months ago : Opdater special tegn
+7c8f92f - kris907j, 3 months ago : Creating dataprocessing file and starting defining functions to divide the operational data
+f82f122 - William Andersen, 3 months ago : Update README.md
+a10bcdf - William Andersen, 3 months ago : Update README.md
+27e95b2 - William Andersen, 3 months ago : Update README.md
+c42ddce - William Andersen, 3 months ago : Initial commit
