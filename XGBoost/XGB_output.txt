@@ -1,0 +1,54 @@
+Phase 1
+Best parameters: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 10, 'reg_alpha': 1, 'reg_lambda': 1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 48.88%
+
+
+Phase 2
+Best parameters: {'learning_rate': 0.01, 'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 48.55%
+
+
+Phase 3
+Best parameters: {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0, 'reg_lambda': 1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 49.37%
+
+
+Phase 4
+Best parameters: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 10, 'reg_alpha': 0, 'reg_lambda': 1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 49.71%
+
+
+Phase 5
+Best parameters: {'learning_rate': 0.001, 'max_depth': 3, 'n_estimators': 10, 'reg_alpha': 0, 'reg_lambda': 0.1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 50.41%
+
+
+Phase 6
+Best parameters: {'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 10, 'reg_alpha': 0, 'reg_lambda': 1, 'scale_pos_weight': 1.9924018573237654}
+Final Model F1 Score on Holdout Set: 0.6667
+Holdout Set Accuracy: 50.00%
+Holdout Set Precision: 50.00%
+Holdout Set Recall: 100.00%
+Holdout Set ROC AUC: 49.66%
+
+
