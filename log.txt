@@ -1,12 +1,13 @@
-959b228 - Kirk, 83 seconds ago : oprydning af filer og sortering
-3957e1c - Nicolai Munksgaard Schmidt, 2 hours ago : LR results
-286a81a - Nicolai Munksgaard Schmidt, 3 hours ago : Logistic regression code
-4769f9d - Nicolai Munksgaard Schmidt, 9 hours ago : results logitsic
-ca1bf02 - Nicolai Munksgaard Schmidt, 9 hours ago : resultater
-ecc9ef2 - Nicolai Munksgaard Schmidt, 9 hours ago : xgboost notebook
-bae9603 - Nicolai Munksgaard Schmidt, 11 hours ago : feature ranking
-bee0c74 - Nicolai Munksgaard Schmidt, 12 hours ago : nye outputs
-2db3d03 - Nicolai Munksgaard Schmidt, 25 hours ago : data
+fa1fe2f - Kirk, 9 seconds ago : oprydning af filer og sortering endnu mere
+959b228 - Kirk, 57 minutes ago : oprydning af filer og sortering
+3957e1c - Nicolai Munksgaard Schmidt, 3 hours ago : LR results
+286a81a - Nicolai Munksgaard Schmidt, 4 hours ago : Logistic regression code
+4769f9d - Nicolai Munksgaard Schmidt, 10 hours ago : results logitsic
+ca1bf02 - Nicolai Munksgaard Schmidt, 10 hours ago : resultater
+ecc9ef2 - Nicolai Munksgaard Schmidt, 10 hours ago : xgboost notebook
+bae9603 - Nicolai Munksgaard Schmidt, 12 hours ago : feature ranking
+bee0c74 - Nicolai Munksgaard Schmidt, 13 hours ago : nye outputs
+2db3d03 - Nicolai Munksgaard Schmidt, 26 hours ago : data
 c2df046 - sofieullum, 2 days ago : Update XGBoost tests.ipynb
 80f6439 - Nicolai Munksgaard Schmidt, 2 days ago : updated XGBoost
 94c9da6 - Kirk, 2 days ago : ann med learning rate og weight decay loop
@@ -21,13 +22,13 @@ c641e3e - Kirk, 2 days ago : ann med learning rate og weight_decay
 4ba6c6e - Kirk, 4 days ago : ny ANN med l2 reguarlization
 1af94c3 - Kirk, 4 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
 16bb93b - Kirk, 4 days ago : ny logistic regression
-1c2d6b1 - Nicolai Munksgaard Schmidt, 4 days ago : Updated operation file
+1c2d6b1 - Nicolai Munksgaard Schmidt, 5 days ago : Updated operation file
 fc2f983 - Nicolai Munksgaard Schmidt, 6 days ago : opeatoin
 773acc8 - Nicolai Munksgaard Schmidt, 6 days ago : Merge branch 'main' of https://github.com/mackula/02445-HeartSurgery
 36ca920 - Nicolai Munksgaard Schmidt, 6 days ago : operations processing
 32a912f - Kirk, 6 days ago : tilføjelse af roc og beregning af recall
-e396ef0 - Kirk, 6 days ago : Fjern mnist dataset
-90eb714 - Kirk, 6 days ago : 3 modeller implementeret med l2 reguluarization
+e396ef0 - Kirk, 7 days ago : Fjern mnist dataset
+90eb714 - Kirk, 7 days ago : 3 modeller implementeret med l2 reguluarization
 1c9d481 - Kirk, 7 days ago : updated ann med holdout og 2 level 10 fold cross validation
 fcb583c - Kirk, 7 days ago : logistic regression og ann 1. version
 86b20f5 - Nicolai Munksgaard Schmidt, 8 days ago : pseudo data
